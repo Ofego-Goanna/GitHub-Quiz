@@ -1,9 +1,7 @@
 # GitHub-Quiz
 
-Add random stuff to this repository as you wish :) 
+This is my 16th quiz.
 
-Repeat the craft to master git 
+This quiz is all about Git commands.
 
-
-
-Enjoy the process and the meme :D
+I am actually looking forward to use GitHub to collaborate and work with my team mates.
